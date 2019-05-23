@@ -1,0 +1,90 @@
+{
+    "extensionNombre": {
+        "message": "YouTube-д эхэлнэ",
+        "description": "Título del programa."
+    },
+    "extensionDescripcion": {
+        "message": "Хамгийн сүүлд хаана дуусгасан Youtube видеог үзээрэй !!",
+        "description": "Descripción del programa"
+    },
+    "extensionTitle": {
+        "message": "YouTube-д эхэлнэ",
+        "description": "Title de browser_action y sidebar_action"
+    },
+    "enMomentos": {
+        "message": "Одоонд",
+        "description": "Mensaje al usuario -En momentos-"
+    },
+    "continuaraViendo": {
+        "message": "Үзэж байгаарай",
+        "description": "Mensaje al usuario -continuará viendo desde-"
+    },
+    "grabado": {
+        "message": "Engraving",
+        "description": "Mensaje al usuario -Grabado-"
+    },
+    "totalVideos": {
+        "message": "YouTube дээрх видеог эхэлдэг",
+        "description": "Mensaje al usuario -videos en Youtube inicia a las-"
+    },
+    "flotar": {
+        "message": "Float",
+        "description": "Mensaje al usuario -flotar-"
+    },
+    "flotartitle": {
+        "message": "Хөвөгч видеог үзээрэй",
+        "description": "Mensaje title al usuario -Mira videos flotantes y sigue navegando-"
+    },
+    "tooltip": {
+        "message": "Видео үзэх Энэ нь эхэлж байна",
+        "description": "Mensaje tooltips al usuario -Ver el vídeo. Empieza en-"
+    },
+    "borrarBoton": {
+        "message": "Устгах",
+        "description": "Value boton borrar -Borrar-"
+    },
+    "borrarBotonTitle": {
+        "message": "Энэ бичлэгийг устгах",
+        "description": "Title boton borrar -Eliminar este registro-"
+    },
+    "notifBorrado": {
+        "message": "устгагдсан",
+        "description": "Notificación exitosa borrado -borrado-"
+    },
+    "notifBorradoError": {
+        "message": "Алдаа",
+        "description": "Notificación error borrado -Error-"
+    },
+    "h2IdTexto": {
+        "message": "Харж бай ...",
+        "description": "Mensaje html al usuario -Sigue mirando...-"
+    },
+    "botonAboutValor": {
+        "message": "Элинвын тухай",
+        "description": "Botón html -Sobre Elinv-"
+    },
+    "botonAboutTitle": {
+        "message": "Elinv-ийн талаар дэлгэрэнгүй мэдээлэл",
+        "description": "Botón html title -Más información sobre Elinv-"
+    },
+    "botonPreferidosTexto": {
+        "message": "YouTube санал болгож байна",
+        "description": "Botón html -YouTube Recomendados-"
+    },
+    "botonPreferidosTitle": {
+        "message": "YouTube-ийн дуртай",
+        "description": "Botón html title -Preferidos de YouTube-"
+    },
+    "filtrarButTexto": {
+        "message": "Мэдээллийг шүүж байна",
+        "description": "Botón filtrar información"
+    },
+    "filtrarButTitle": {
+        "message": "Мэдээллийг шүүж байна",
+        "description": "Title filtrar información"
+    },
+    "filtrarButPlaceHolder": {
+        "message": "Мэдээллийг шүүж байна",
+        "description": "Title filtrar información"
+    }  
+}

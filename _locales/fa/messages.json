@@ -1,0 +1,90 @@
+{
+    "extensionNombre": {
+        "message": "YouTube شروع می شود",
+        "description": "Título del programa."
+    },
+    "extensionDescripcion": {
+        "message": "تماشای ویدئو یوتیوب را از جایی که آخرین بار به اتمام رسید نگاهی بینداز!",
+        "description": "Descripción del programa"
+    },
+    "extensionTitle": {
+        "message": "YouTube شروع می شود",
+        "description": "Title de browser_action y sidebar_action"
+    },
+    "enMomentos": {
+        "message": "در لحظات",
+        "description": "Mensaje al usuario -En momentos-"
+    },
+    "continuaraViendo": {
+        "message": "ادامه از تماشای",
+        "description": "Mensaje al usuario -continuará viendo desde-"
+    },
+    "grabado": {
+        "message": "حکاکی کردن",
+        "description": "Mensaje al usuario -Grabado-"
+    },
+    "totalVideos": {
+        "message": "ویدیوها در YouTube شروع می شوند",
+        "description": "Mensaje al usuario -videos en Youtube inicia a las-"
+    },
+    "flotar": {
+        "message": "شناور",
+        "description": "Mensaje al usuario -flotar-"
+    },
+    "flotartitle": {
+        "message": "فیلم های شناور را تماشا کنید و مرور کنید",
+        "description": "Mensaje title al usuario -Mira videos flotantes y sigue navegando-"
+    },
+    "tooltip": {
+        "message": "تماشای ویدیو شروع می شود",
+        "description": "Mensaje tooltips al usuario -Ver el vídeo. Empieza en-"
+    },
+    "borrarBoton": {
+        "message": "حذف",
+        "description": "Value boton borrar -Borrar-"
+    },
+    "borrarBotonTitle": {
+        "message": "حذف این رکورد",
+        "description": "Title boton borrar -Eliminar este registro-"
+    },
+    "notifBorrado": {
+        "message": "پاک شده",
+        "description": "Notificación exitosa borrado -borrado-"
+    },
+    "notifBorradoError": {
+        "message": "خطا",
+        "description": "Notificación error borrado -Error-"
+    },
+    "h2IdTexto": {
+        "message": "نگاه کن ...",
+        "description": "Mensaje html al usuario -Sigue mirando...-"
+    },
+    "botonAboutValor": {
+        "message": "درباره الینوف",
+        "description": "Botón html -Sobre Elinv-"
+    },
+    "botonAboutTitle": {
+        "message": "اطلاعات بیشتر در مورد Elinv",
+        "description": "Botón html title -Más información sobre Elinv-"
+    },
+    "botonPreferidosTexto": {
+        "message": "توصیه یوتیوب",
+        "description": "Botón html -YouTube Recomendados-"
+    },
+    "botonPreferidosTitle": {
+        "message": "علاقه مندی های یوتیوب",
+        "description": "Botón html title -Preferidos de YouTube-"
+    },
+    "filtrarButTexto": {
+        "message": "اطلاعات فیلتر",
+        "description": "Botón filtrar información"
+    },
+    "filtrarButTitle": {
+        "message": "اطلاعات فیلتر",
+        "description": "Title filtrar información"
+    },
+    "filtrarButPlaceHolder": {
+        "message": "اطلاعات فیلتر",
+        "description": "Title filtrar información"
+    }  
+}

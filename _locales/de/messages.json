@@ -1,0 +1,90 @@
+{
+    "extensionNombre": {
+        "message": "YouTube beginnt um",
+        "description": "Título del programa."
+    },
+    "extensionDescripcion": {
+        "message": "Schau dir das Youtube Video an, von dem wir das letzte Mal fertig waren !!",
+        "description": "Descripción del programa"
+    },
+    "extensionTitle": {
+        "message": "YouTube beginnt um",
+        "description": "Title de browser_action y sidebar_action"
+    },
+    "enMomentos": {
+        "message": "In Momenten",
+        "description": "Mensaje al usuario -En momentos-"
+    },
+    "continuaraViendo": {
+        "message": "weiter zuschauen",
+        "description": "Mensaje al usuario -continuará viendo desde-"
+    },
+    "grabado": {
+        "message": "Gravur",
+        "description": "Mensaje al usuario -Grabado-"
+    },
+    "totalVideos": {
+        "message": "Videos auf YouTube beginnen bei",
+        "description": "Mensaje al usuario -videos en Youtube inicia a las-"
+    },
+    "flotar": {
+        "message": "Schweben",
+        "description": "Mensaje al usuario -flotar-"
+    },
+    "flotartitle": {
+        "message": "Beobachten Sie schwebende Videos und surfen Sie weiter",
+        "description": "Mensaje title al usuario -Mira videos flotantes y sigue navegando-"
+    },
+    "tooltip": {
+        "message": "Sieh dir das Video an Es beginnt in",
+        "description": "Mensaje tooltips al usuario -Ver el vídeo. Empieza en-"
+    },
+    "borrarBoton": {
+        "message": "Löschen",
+        "description": "Value boton borrar -Borrar-"
+    },
+    "borrarBotonTitle": {
+        "message": "Löschen Sie diesen Datensatz",
+        "description": "Title boton borrar -Eliminar este registro-"
+    },
+    "notifBorrado": {
+        "message": "gelöscht",
+        "description": "Notificación exitosa borrado -borrado-"
+    },
+    "notifBorradoError": {
+        "message": "Fehler",
+        "description": "Notificación error borrado -Error-"
+    },
+    "h2IdTexto": {
+        "message": "Schau weiter ...",
+        "description": "Mensaje html al usuario -Sigue mirando...-"
+    },
+    "botonAboutValor": {
+        "message": "Über Elinv",
+        "description": "Botón html -Sobre Elinv-"
+    },
+    "botonAboutTitle": {
+        "message": "Weitere Informationen über Elinv",
+        "description": "Botón html title -Más información sobre Elinv-"
+    },
+    "botonPreferidosTexto": {
+        "message": "Empfohlenes YouTube",
+        "description": "Botón html -YouTube Recomendados-"
+    },
+    "botonPreferidosTitle": {
+        "message": "YouTube-Favoriten",
+        "description": "Botón html title -Preferidos de YouTube-"
+    },
+    "filtrarButTexto": {
+        "message": "Informationen filtern",
+        "description": "Botón filtrar información"
+    },
+    "filtrarButTitle": {
+        "message": "Informationen filtern",
+        "description": "Title filtrar información"
+    },
+    "filtrarButPlaceHolder": {
+        "message": "Informationen filtern",
+        "description": "Title filtrar información"
+    }  
+}

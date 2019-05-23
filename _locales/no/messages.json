@@ -1,0 +1,90 @@
+{
+    "extensionNombre": {
+        "message": "YouTube starter på",
+        "description": "Título del programa."
+    },
+    "extensionDescripcion": {
+        "message": "Fortsett å se Youtube-videoen der vi var ferdig sist!",
+        "description": "Descripción del programa"
+    },
+    "extensionTitle": {
+        "message": "YouTube starter på",
+        "description": "Title de browser_action y sidebar_action"
+    },
+    "enMomentos": {
+        "message": "I øyeblikk",
+        "description": "Mensaje al usuario -En momentos-"
+    },
+    "continuaraViendo": {
+        "message": "Fortsett å se fra",
+        "description": "Mensaje al usuario -continuará viendo desde-"
+    },
+    "grabado": {
+        "message": "innspilt",
+        "description": "Mensaje al usuario -Grabado-"
+    },
+    "totalVideos": {
+        "message": "videoer på YouTube starter på",
+        "description": "Mensaje al usuario -videos en Youtube inicia a las-"
+    },
+    "flotar": {
+        "message": "float",
+        "description": "Mensaje al usuario -flotar-"
+    },
+    "flotartitle": {
+        "message": "Se flytende videoer og fortsett å surfe",
+        "description": "Mensaje title al usuario -Mira videos flotantes y sigue navegando-"
+    },
+    "tooltip": {
+        "message": "Se på videoen Det starter i",
+        "description": "Mensaje tooltips al usuario -Ver el vídeo. Empieza en-"
+    },
+    "borrarBoton": {
+        "message": "slette",
+        "description": "Value boton borrar -Borrar-"
+    },
+    "borrarBotonTitle": {
+        "message": "Slett denne posten",
+        "description": "Title boton borrar -Eliminar este registro-"
+    },
+    "notifBorrado": {
+        "message": "slettet",
+        "description": "Notificación exitosa borrado -borrado-"
+    },
+    "notifBorradoError": {
+        "message": "feil",
+        "description": "Notificación error borrado -Error-"
+    },
+    "h2IdTexto": {
+        "message": "Fortsett å se ...",
+        "description": "Mensaje html al usuario -Sigue mirando...-"
+    },
+    "botonAboutValor": {
+        "message": "Om Elinv",
+        "description": "Botón html -Sobre Elinv-"
+    },
+    "botonAboutTitle": {
+        "message": "Mer informasjon om Elinv",
+        "description": "Botón html title -Más información sobre Elinv-"
+    },
+    "botonPreferidosTexto": {
+        "message": "Anbefalt YouTube",
+        "description": "Botón html -YouTube Recomendados-"
+    },
+    "botonPreferidosTitle": {
+        "message": "YouTube-favoritter",
+        "description": "Botón html title -Preferidos de YouTube-"
+    },
+    "filtrarButTexto": {
+        "message": "Filtreringsinformasjon",
+        "description": "Botón filtrar información"
+    },
+    "filtrarButTitle": {
+        "message": "Filtreringsinformasjon",
+        "description": "Title filtrar información"
+    },
+    "filtrarButPlaceHolder": {
+        "message": "Filtreringsinformasjon",
+        "description": "Title filtrar información"
+    }  
+}

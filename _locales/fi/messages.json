@@ -1,0 +1,90 @@
+{
+    "extensionNombre": {
+        "message": "YouTube aloittaa",
+        "description": "Título del programa."
+    },
+    "extensionDescripcion": {
+        "message": "Pysy katsomassa Youtube-videota, josta olemme viimeisen kerran päättäneet!",
+        "description": "Descripción del programa"
+    },
+    "extensionTitle": {
+        "message": "YouTube aloittaa",
+        "description": "Title de browser_action y sidebar_action"
+    },
+    "enMomentos": {
+        "message": "Hetkiin",
+        "description": "Mensaje al usuario -En momentos-"
+    },
+    "continuaraViendo": {
+        "message": "jatka katsomista",
+        "description": "Mensaje al usuario -continuará viendo desde-"
+    },
+    "grabado": {
+        "message": "tallennettu",
+        "description": "Mensaje al usuario -Grabado-"
+    },
+    "totalVideos": {
+        "message": "YouTube-videoita alkaa",
+        "description": "Mensaje al usuario -videos en Youtube inicia a las-"
+    },
+    "flotar": {
+        "message": "kellua",
+        "description": "Mensaje al usuario -flotar-"
+    },
+    "flotartitle": {
+        "message": "Katso kelluvia videoita ja pidä selailua",
+        "description": "Mensaje title al usuario -Mira videos flotantes y sigue navegando-"
+    },
+    "tooltip": {
+        "message": "Katso video Se alkaa",
+        "description": "Mensaje tooltips al usuario -Ver el vídeo. Empieza en-"
+    },
+    "borrarBoton": {
+        "message": "poistaa",
+        "description": "Value boton borrar -Borrar-"
+    },
+    "borrarBotonTitle": {
+        "message": "Poista tämä tietue",
+        "description": "Title boton borrar -Eliminar este registro-"
+    },
+    "notifBorrado": {
+        "message": "poistetaan",
+        "description": "Notificación exitosa borrado -borrado-"
+    },
+    "notifBorradoError": {
+        "message": "virhe",
+        "description": "Notificación error borrado -Error-"
+    },
+    "h2IdTexto": {
+        "message": "Pidä etsimässä ...",
+        "description": "Mensaje html al usuario -Sigue mirando...-"
+    },
+    "botonAboutValor": {
+        "message": "Tietoja Elinvistä",
+        "description": "Botón html -Sobre Elinv-"
+    },
+    "botonAboutTitle": {
+        "message": "Lisätietoja Elinvista",
+        "description": "Botón html title -Más información sobre Elinv-"
+    },
+    "botonPreferidosTexto": {
+        "message": "Suositeltava YouTube",
+        "description": "Botón html -YouTube Recomendados-"
+    },
+    "botonPreferidosTitle": {
+        "message": "YouTuben suosikit",
+        "description": "Botón html title -Preferidos de YouTube-"
+    },
+    "filtrarButTexto": {
+        "message": "Suodata tiedot",
+        "description": "Botón filtrar información"
+    },
+    "filtrarButTitle": {
+        "message": "Suodata tiedot",
+        "description": "Title filtrar información"
+    },
+    "filtrarButPlaceHolder": {
+        "message": "Suodata tiedot",
+        "description": "Title filtrar información"
+    }  
+}

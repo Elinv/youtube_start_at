@@ -1,0 +1,90 @@
+{
+    "extensionNombre": {
+        "message": "YouTube begin by",
+        "description": "Título del programa."
+    },
+    "extensionDescripcion": {
+        "message": "Hou aan om die Youtube-video te kyk van waar ons die laaste keer klaar was!",
+        "description": "Descripción del programa"
+    },
+    "extensionTitle": {
+        "message": "YouTube begin by",
+        "description": "Title de browser_action y sidebar_action"
+    },
+    "enMomentos": {
+        "message": "In oomblikke",
+        "description": "Mensaje al usuario -En momentos-"
+    },
+    "continuaraViendo": {
+        "message": "Hou aan om van te kyk",
+        "description": "Mensaje al usuario -continuará viendo desde-"
+    },
+    "grabado": {
+        "message": "aangeteken",
+        "description": "Mensaje al usuario -Grabado-"
+    },
+    "totalVideos": {
+        "message": "video's op YouTube begin by",
+        "description": "Mensaje al usuario -videos en Youtube inicia a las-"
+    },
+    "flotar": {
+        "message": "float",
+        "description": "Mensaje al usuario -flotar-"
+    },
+    "flotartitle": {
+        "message": "Kyk dragtige video's en bly blaai",
+        "description": "Mensaje title al usuario -Mira videos flotantes y sigue navegando-"
+    },
+    "tooltip": {
+        "message": "Kyk na die video Dit begin",
+        "description": "Mensaje tooltips al usuario -Ver el vídeo. Empieza en-"
+    },
+    "borrarBoton": {
+        "message": "verwyder",
+        "description": "Value boton borrar -Borrar-"
+    },
+    "borrarBotonTitle": {
+        "message": "Vee hierdie rekord uit",
+        "description": "Title boton borrar -Eliminar este registro-"
+    },
+    "notifBorrado": {
+        "message": "skoongemaak",
+        "description": "Notificación exitosa borrado -borrado-"
+    },
+    "notifBorradoError": {
+        "message": "fout",
+        "description": "Notificación error borrado -Error-"
+    },
+    "h2IdTexto": {
+        "message": "Hou op soek na ...",
+        "description": "Mensaje html al usuario -Sigue mirando...-"
+    },
+    "botonAboutValor": {
+        "message": "Oor Elinv",
+        "description": "Botón html -Sobre Elinv-"
+    },
+    "botonAboutTitle": {
+        "message": "Meer inligting oor Elinv",
+        "description": "Botón html title -Más información sobre Elinv-"
+    },
+    "botonPreferidosTexto": {
+        "message": "Aanbevole YouTube",
+        "description": "Botón html -YouTube Recomendados-"
+    },
+    "botonPreferidosTitle": {
+        "message": "YouTube gunstelinge",
+        "description": "Botón html title -Preferidos de YouTube-"
+    },
+    "filtrarButTexto": {
+        "message": "Filtreer inligting",
+        "description": "Botón filtrar información"
+    },
+    "filtrarButTitle": {
+        "message": "Filtreer inligting",
+        "description": "Title filtrar información"
+    },
+    "filtrarButPlaceHolder": {
+        "message": "Filtreer inligting",
+        "description": "Title filtrar información"
+    }  
+}

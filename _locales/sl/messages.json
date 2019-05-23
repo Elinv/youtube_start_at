@@ -1,0 +1,90 @@
+{
+    "extensionNombre": {
+        "message": "YouTube se začne na",
+        "description": "Título del programa."
+    },
+    "extensionDescripcion": {
+        "message": "Nadaljujte gledanje videoposnetka Youtube od mesta, kjer smo končali zadnjič!",
+        "description": "Descripción del programa"
+    },
+    "extensionTitle": {
+        "message": "YouTube se začne na",
+        "description": "Title de browser_action y sidebar_action"
+    },
+    "enMomentos": {
+        "message": "V trenutkih",
+        "description": "Mensaje al usuario -En momentos-"
+    },
+    "continuaraViendo": {
+        "message": "nadaljujte z gledanjem",
+        "description": "Mensaje al usuario -continuará viendo desde-"
+    },
+    "grabado": {
+        "message": "Graviranje",
+        "description": "Mensaje al usuario -Grabado-"
+    },
+    "totalVideos": {
+        "message": "videoposnetki na YouTubu se začnejo",
+        "description": "Mensaje al usuario -videos en Youtube inicia a las-"
+    },
+    "flotar": {
+        "message": "Plavaj",
+        "description": "Mensaje al usuario -flotar-"
+    },
+    "flotartitle": {
+        "message": "Oglejte si plavajoče videoposnetke in nadaljujte brskanje",
+        "description": "Mensaje title al usuario -Mira videos flotantes y sigue navegando-"
+    },
+    "tooltip": {
+        "message": "Oglejte si video Začne se",
+        "description": "Mensaje tooltips al usuario -Ver el vídeo. Empieza en-"
+    },
+    "borrarBoton": {
+        "message": "Izbriši",
+        "description": "Value boton borrar -Borrar-"
+    },
+    "borrarBotonTitle": {
+        "message": "Izbriši ta zapis",
+        "description": "Title boton borrar -Eliminar este registro-"
+    },
+    "notifBorrado": {
+        "message": "izbrisani",
+        "description": "Notificación exitosa borrado -borrado-"
+    },
+    "notifBorradoError": {
+        "message": "Napaka",
+        "description": "Notificación error borrado -Error-"
+    },
+    "h2IdTexto": {
+        "message": "Bodite pozorni ...",
+        "description": "Mensaje html al usuario -Sigue mirando...-"
+    },
+    "botonAboutValor": {
+        "message": "O Elinv",
+        "description": "Botón html -Sobre Elinv-"
+    },
+    "botonAboutTitle": {
+        "message": "Več informacij o Elinv",
+        "description": "Botón html title -Más información sobre Elinv-"
+    },
+    "botonPreferidosTexto": {
+        "message": "Priporočen YouTube",
+        "description": "Botón html -YouTube Recomendados-"
+    },
+    "botonPreferidosTitle": {
+        "message": "Priljubljene v YouTubu",
+        "description": "Botón html title -Preferidos de YouTube-"
+    },
+    "filtrarButTexto": {
+        "message": "Filtrirajte podatke",
+        "description": "Botón filtrar información"
+    },
+    "filtrarButTitle": {
+        "message": "Filtrirajte podatke",
+        "description": "Title filtrar información"
+    },
+    "filtrarButPlaceHolder": {
+        "message": "Filtrirajte podatke",
+        "description": "Title filtrar información"
+    }  
+}

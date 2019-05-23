@@ -1,0 +1,90 @@
+{
+    "extensionNombre": {
+        "message": "YouTube bắt đầu lúc",
+        "description": "Título del programa."
+    },
+    "extensionDescripcion": {
+        "message": "Tiếp tục xem video Youtube từ nơi chúng tôi đã hoàn thành lần cuối cùng !!",
+        "description": "Descripción del programa"
+    },
+    "extensionTitle": {
+        "message": "YouTube bắt đầu lúc",
+        "description": "Title de browser_action y sidebar_action"
+    },
+    "enMomentos": {
+        "message": "Trong khoảnh khắc",
+        "description": "Mensaje al usuario -En momentos-"
+    },
+    "continuaraViendo": {
+        "message": "tiếp tục xem từ",
+        "description": "Mensaje al usuario -continuará viendo desde-"
+    },
+    "grabado": {
+        "message": "Khắc",
+        "description": "Mensaje al usuario -Grabado-"
+    },
+    "totalVideos": {
+        "message": "video trên YouTube bắt đầu lúc",
+        "description": "Mensaje al usuario -videos en Youtube inicia a las-"
+    },
+    "flotar": {
+        "message": "Phao nổi",
+        "description": "Mensaje al usuario -flotar-"
+    },
+    "flotartitle": {
+        "message": "Xem video nổi và tiếp tục duyệt",
+        "description": "Mensaje title al usuario -Mira videos flotantes y sigue navegando-"
+    },
+    "tooltip": {
+        "message": "Xem video Nó bắt đầu vào",
+        "description": "Mensaje tooltips al usuario -Ver el vídeo. Empieza en-"
+    },
+    "borrarBoton": {
+        "message": "Xóa",
+        "description": "Value boton borrar -Borrar-"
+    },
+    "borrarBotonTitle": {
+        "message": "Xóa bản ghi này",
+        "description": "Title boton borrar -Eliminar este registro-"
+    },
+    "notifBorrado": {
+        "message": "bị xóa",
+        "description": "Notificación exitosa borrado -borrado-"
+    },
+    "notifBorradoError": {
+        "message": "Lỗi",
+        "description": "Notificación error borrado -Error-"
+    },
+    "h2IdTexto": {
+        "message": "Tiếp tục tìm kiếm ...",
+        "description": "Mensaje html al usuario -Sigue mirando...-"
+    },
+    "botonAboutValor": {
+        "message": "Giới thiệu về Elinv",
+        "description": "Botón html -Sobre Elinv-"
+    },
+    "botonAboutTitle": {
+        "message": "Thông tin thêm về Elinv",
+        "description": "Botón html title -Más información sobre Elinv-"
+    },
+    "botonPreferidosTexto": {
+        "message": "YouTube được đề xuất",
+        "description": "Botón html -YouTube Recomendados-"
+    },
+    "botonPreferidosTitle": {
+        "message": "Mục yêu thích trên YouTube",
+        "description": "Botón html title -Preferidos de YouTube-"
+    },
+    "filtrarButTexto": {
+        "message": "Lọc thông tin",
+        "description": "Botón filtrar información"
+    },
+    "filtrarButTitle": {
+        "message": "Lọc thông tin",
+        "description": "Title filtrar información"
+    },
+    "filtrarButPlaceHolder": {
+        "message": "Lọc thông tin",
+        "description": "Title filtrar información"
+    }  
+}

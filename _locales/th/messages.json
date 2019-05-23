@@ -1,0 +1,90 @@
+{
+    "extensionNombre": {
+        "message": "YouTube เริ่มต้นที่",
+        "description": "Título del programa."
+    },
+    "extensionDescripcion": {
+        "message": "ดูวิดีโอ Youtube จากที่ที่เราเสร็จสิ้นการเป็นครั้งสุดท้าย !!",
+        "description": "Descripción del programa"
+    },
+    "extensionTitle": {
+        "message": "YouTube เริ่มต้นที่",
+        "description": "Title de browser_action y sidebar_action"
+    },
+    "enMomentos": {
+        "message": "ในช่วงเวลา",
+        "description": "Mensaje al usuario -En momentos-"
+    },
+    "continuaraViendo": {
+        "message": "ดูต่อจาก",
+        "description": "Mensaje al usuario -continuará viendo desde-"
+    },
+    "grabado": {
+        "message": "บันทึก",
+        "description": "Mensaje al usuario -Grabado-"
+    },
+    "totalVideos": {
+        "message": "วิดีโอบน YouTube เริ่มต้นที่",
+        "description": "Mensaje al usuario -videos en Youtube inicia a las-"
+    },
+    "flotar": {
+        "message": "ลอย",
+        "description": "Mensaje al usuario -flotar-"
+    },
+    "flotartitle": {
+        "message": "ดูวิดีโอแบบลอยและเรียกดูได้",
+        "description": "Mensaje title al usuario -Mira videos flotantes y sigue navegando-"
+    },
+    "tooltip": {
+        "message": "ดูวิดีโอ มันเริ่มต้นค่ะ",
+        "description": "Mensaje tooltips al usuario -Ver el vídeo. Empieza en-"
+    },
+    "borrarBoton": {
+        "message": "ลบ",
+        "description": "Value boton borrar -Borrar-"
+    },
+    "borrarBotonTitle": {
+        "message": "ลบระเบียนนี้",
+        "description": "Title boton borrar -Eliminar este registro-"
+    },
+    "notifBorrado": {
+        "message": "ลบ",
+        "description": "Notificación exitosa borrado -borrado-"
+    },
+    "notifBorradoError": {
+        "message": "ความผิดพลาด",
+        "description": "Notificación error borrado -Error-"
+    },
+    "h2IdTexto": {
+        "message": "มองต่อไป ...",
+        "description": "Mensaje html al usuario -Sigue mirando...-"
+    },
+    "botonAboutValor": {
+        "message": "เกี่ยวกับ Elinv",
+        "description": "Botón html -Sobre Elinv-"
+    },
+    "botonAboutTitle": {
+        "message": "ข้อมูลเพิ่มเติมเกี่ยวกับ Elinv",
+        "description": "Botón html title -Más información sobre Elinv-"
+    },
+    "botonPreferidosTexto": {
+        "message": "แนะนำ YouTube",
+        "description": "Botón html -YouTube Recomendados-"
+    },
+    "botonPreferidosTitle": {
+        "message": "รายการโปรดของ YouTube",
+        "description": "Botón html title -Preferidos de YouTube-"
+    },
+    "filtrarButTexto": {
+        "message": "กรองข้อมูล",
+        "description": "Botón filtrar información"
+    },
+    "filtrarButTitle": {
+        "message": "กรองข้อมูล",
+        "description": "Title filtrar información"
+    },
+    "filtrarButPlaceHolder": {
+        "message": "กรองข้อมูล",
+        "description": "Title filtrar información"
+    }  
+}

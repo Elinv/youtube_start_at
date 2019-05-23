@@ -1,0 +1,90 @@
+{
+    "extensionNombre": {
+        "message": "يبدأ YouTube على",
+        "description": "Título del programa."
+    },
+    "extensionDescripcion": {
+        "message": "استمر في مشاهدة فيديو Youtube من حيث انتهينا من آخر مرة !!",
+        "description": "Descripción del programa"
+    },
+    "extensionTitle": {
+        "message": "يبدأ YouTube على",
+        "description": "Title de browser_action y sidebar_action"
+    },
+    "enMomentos": {
+        "message": "في لحظات",
+        "description": "Mensaje al usuario -En momentos-"
+    },
+    "continuaraViendo": {
+        "message": "تابع المشاهدة من",
+        "description": "Mensaje al usuario -continuará viendo desde-"
+    },
+    "grabado": {
+        "message": "مسجل",
+        "description": "Mensaje al usuario -Grabado-"
+    },
+    "totalVideos": {
+        "message": "تبدأ مقاطع الفيديو على YouTube على",
+        "description": "Mensaje al usuario -videos en Youtube inicia a las-"
+    },
+    "flotar": {
+        "message": "عوامة",
+        "description": "Mensaje al usuario -flotar-"
+    },
+    "flotartitle": {
+        "message": "شاهد مقاطع الفيديو العائمة واستمر في التصفح",
+        "description": "Mensaje title al usuario -Mira videos flotantes y sigue navegando-"
+    },
+    "tooltip": {
+        "message": "شاهد الفيديو يبدأ في",
+        "description": "Mensaje tooltips al usuario -Ver el vídeo. Empieza en-"
+    },
+    "borrarBoton": {
+        "message": "حذف",
+        "description": "Value boton borrar -Borrar-"
+    },
+    "borrarBotonTitle": {
+        "message": "احذف هذا السجل",
+        "description": "Title boton borrar -Eliminar este registro-"
+    },
+    "notifBorrado": {
+        "message": "مسح",
+        "description": "Notificación exitosa borrado -borrado-"
+    },
+    "notifBorradoError": {
+        "message": "خطأ",
+        "description": "Notificación error borrado -Error-"
+    },
+    "h2IdTexto": {
+        "message": "واصل النظر ...",
+        "description": "Mensaje html al usuario -Sigue mirando...-"
+    },
+    "botonAboutValor": {
+        "message": "حول Elinv",
+        "description": "Botón html -Sobre Elinv-"
+    },
+    "botonAboutTitle": {
+        "message": "مزيد من المعلومات حول Elinv",
+        "description": "Botón html title -Más información sobre Elinv-"
+    },
+    "botonPreferidosTexto": {
+        "message": "يوصى يوتيوب",
+        "description": "Botón html -YouTube Recomendados-"
+    },
+    "botonPreferidosTitle": {
+        "message": "يوتيوب المفضلة",
+        "description": "Botón html title -Preferidos de YouTube-"
+    },
+    "filtrarButTexto": {
+        "message": "تصفية المعلومات",
+        "description": "Botón filtrar información"
+    },
+    "filtrarButTitle": {
+        "message": "تصفية المعلومات",
+        "description": "Title filtrar información"
+    },
+    "filtrarButPlaceHolder": {
+        "message": "تصفية المعلومات",
+        "description": "Title filtrar información"
+    }  
+}

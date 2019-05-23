@@ -1,0 +1,90 @@
+{
+    "extensionNombre": {
+        "message": "יאָוטובע סטאַרץ בייַ",
+        "description": "Título del programa."
+    },
+    "extensionDescripcion": {
+        "message": "האַלטן וואַטשינג די יאָוטובע ווידעא פון ווו מיר פאַרענדיקן די לעצטע צייַט !!",
+        "description": "Descripción del programa"
+    },
+    "extensionTitle": {
+        "message": "יאָוטובע סטאַרץ בייַ",
+        "description": "Title de browser_action y sidebar_action"
+    },
+    "enMomentos": {
+        "message": "אין מאָמענץ",
+        "description": "Mensaje al usuario -En momentos-"
+    },
+    "continuaraViendo": {
+        "message": "פאָרזעצן וואַטשינג",
+        "description": "Mensaje al usuario -continuará viendo desde-"
+    },
+    "grabado": {
+        "message": "Engraving",
+        "description": "Mensaje al usuario -Grabado-"
+    },
+    "totalVideos": {
+        "message": "ווידיאס אויף YouTube סטאַרץ בייַ",
+        "description": "Mensaje al usuario -videos en Youtube inicia a las-"
+    },
+    "flotar": {
+        "message": "לאָזנ שווימען",
+        "description": "Mensaje al usuario -flotar-"
+    },
+    "flotartitle": {
+        "message": "וואַך פלאָוטינג ווידיאס און האַלטן בראַוזינג",
+        "description": "Mensaje title al usuario -Mira videos flotantes y sigue navegando-"
+    },
+    "tooltip": {
+        "message": "היטן די ווידעא עס סטאַרץ אין",
+        "description": "Mensaje tooltips al usuario -Ver el vídeo. Empieza en-"
+    },
+    "borrarBoton": {
+        "message": "Delete",
+        "description": "Value boton borrar -Borrar-"
+    },
+    "borrarBotonTitle": {
+        "message": "ויסמעקן דעם רעקאָרד",
+        "description": "Title boton borrar -Eliminar este registro-"
+    },
+    "notifBorrado": {
+        "message": "erased",
+        "description": "Notificación exitosa borrado -borrado-"
+    },
+    "notifBorradoError": {
+        "message": "Error",
+        "description": "Notificación error borrado -Error-"
+    },
+    "h2IdTexto": {
+        "message": "האַלטן קוקן ...",
+        "description": "Mensaje html al usuario -Sigue mirando...-"
+    },
+    "botonAboutValor": {
+        "message": "וועגן עלינוו",
+        "description": "Botón html -Sobre Elinv-"
+    },
+    "botonAboutTitle": {
+        "message": "מער אינפֿאָרמאַציע וועגן עלינוו",
+        "description": "Botón html title -Más información sobre Elinv-"
+    },
+    "botonPreferidosTexto": {
+        "message": "Recommended YouTube",
+        "description": "Botón html -YouTube Recomendados-"
+    },
+    "botonPreferidosTitle": {
+        "message": "YouTube favorites",
+        "description": "Botón html title -Preferidos de YouTube-"
+    },
+    "filtrarButTexto": {
+        "message": "פילטער אינפֿאָרמאַציע",
+        "description": "Botón filtrar información"
+    },
+    "filtrarButTitle": {
+        "message": "פילטער אינפֿאָרמאַציע",
+        "description": "Title filtrar información"
+    },
+    "filtrarButPlaceHolder": {
+        "message": "פילטער אינפֿאָרמאַציע",
+        "description": "Title filtrar información"
+    }  
+}

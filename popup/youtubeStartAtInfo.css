@@ -1,0 +1,212 @@
+:root {
+    --separador: 12px;
+    --sizeFont: 20px;
+}
+
+/* unvisited link */
+
+a:link {
+    color: red;
+}
+
+/* visited link */
+
+a:visited {
+    color: rgb(6, 66, 6);
+}
+
+/* mouse over link 
+a:hover {
+    color: rgb(255, 0, 128);
+}
+*/
+
+/* selected link */
+
+a:active {
+    color: blue;
+}
+
+a:hover {
+    background: Blue;
+    color: white;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.6);
+    transform: scale(1.2, 1.2);
+    transition: all .8s linear;
+}
+
+body {
+    background: linear-gradient(330deg, #e05252 0%, #99e052 25%, #52e0e0 50%, #9952e0 75%, #e05252 100%);
+}
+
+.drop-shadow {
+    position: relative;
+    width: 85%;
+    margin: 2em 5px 2em 5em;
+    background: rgb(36, 153, 221);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    z-index: 2;
+}
+
+.drop-shadow:before,
+.drop-shadow:after {
+    content: "";
+    position: absolute;
+    z-index: -2;
+}
+
+.drop-shadow p {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.raised {
+    box-shadow: 0 15px 10px -10px rgba(231, 13, 13, 0.801), 0 1px 4px rgba(123, 255, 0, 0.74), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+
+h1 {
+    text-shadow: 0 1px 0 #bbb, 0 2px 0 #bbb, 0 3px 0 #aaa, 0 4px 0 #aaa, 0 5px 0 #999, 0 6px 1px rgb(138, 33, 33), 0 0px 3px rgb(131, 221, 13), 0 1px 3px rgb(20, 73, 187), 0 3px 5px rgb(11, 224, 207), 0 5px 10px rgb(255, 238, 3), 0 5px 20px #000;
+}
+
+h2 {
+    text-shadow: 0 1px 0 #bbb, 0 2px 0 #bbb, 0 3px 0 #aaa, 0 4px 0 #aaa, 0 5px 0 #999, 0 6px 1px rgb(138, 33, 33), 0 0px 3px rgb(131, 221, 13), 0 1px 3px rgb(20, 73, 187), 0 3px 5px rgb(11, 224, 207), 0 5px 10px rgb(255, 238, 3), 0 5px 20px #000;
+}
+
+.present {
+    margin: var(--separador);
+    box-shadow: inset 0px 1px 0px 0px #bbdaf7;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #378de5));
+    background: -moz-linear-gradient(top, #79bbff 5%, #378de5 100%);
+    background: -webkit-linear-gradient(top, #79bbff 5%, #378de5 100%);
+    background: linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+    background-color: #79bbff;
+    background-image: url('../ico/e.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 40% 100%;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    border: 1px solid #84bbf3;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: var(--sizeFont);
+    font-weight: bold;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #528ecc;
+    text-align: right;
+    z-index: 2;
+}
+
+.present:hover {
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #378de5), color-stop(1, #79bbff));
+    background: -moz-linear-gradient(top, #378de5 5%, #79bbff 100%);
+    background: -webkit-linear-gradient(top, #378de5 5%, #79bbff 100%);
+    background: linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+    background-color: #378de5;
+}
+
+.present:active {
+    position: relative;
+    top: 1px;
+}
+
+/*Button delete*/
+
+.button {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #bb5130;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    padding: 5px;
+    width: 60px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    z-index: 0;
+}
+
+.button {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+.button:after {
+    content: '>>';
+    position: absolute;
+    opacity: 1;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+.button:hover {
+    padding-right: 25px;
+    background-color: #ff0000;
+}
+
+.button:hover after {
+    opacity: 5;
+    right: 0;
+}
+
+/*Tooltips links*/
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+    z-index: 1;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 160px;
+    background-color: rgb(190, 68, 68);
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 150%;
+    left: 50%;
+    margin-left: -60px;
+}
+
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(190, 68, 68) transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+/*Borde pantalla*/
+
+html {
+    box-shadow: inset 0px 0px 5px 5px blue;
+    min-height: 100%;
+}
+
+/* Centrar placeholder e input search*/
+::-moz-placeholder {
+    text-align: center;  
+ }
+ 
+ input{
+    text-align:center;
+ }

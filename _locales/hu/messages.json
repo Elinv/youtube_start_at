@@ -1,0 +1,90 @@
+{
+    "extensionNombre": {
+        "message": "A YouTube elkezdődik",
+        "description": "Título del programa."
+    },
+    "extensionDescripcion": {
+        "message": "Nézd meg a Youtube videót, ahonnan végeztünk az utolsó alkalommal !!",
+        "description": "Descripción del programa"
+    },
+    "extensionTitle": {
+        "message": "A YouTube elkezdődik",
+        "description": "Title de browser_action y sidebar_action"
+    },
+    "enMomentos": {
+        "message": "Pillanatok alatt",
+        "description": "Mensaje al usuario -En momentos-"
+    },
+    "continuaraViendo": {
+        "message": "továbbra is nézni",
+        "description": "Mensaje al usuario -continuará viendo desde-"
+    },
+    "grabado": {
+        "message": "feljegyzett",
+        "description": "Mensaje al usuario -Grabado-"
+    },
+    "totalVideos": {
+        "message": "a YouTube-on lévő videók kezdődnek",
+        "description": "Mensaje al usuario -videos en Youtube inicia a las-"
+    },
+    "flotar": {
+        "message": "úszó",
+        "description": "Mensaje al usuario -flotar-"
+    },
+    "flotartitle": {
+        "message": "Nézze le a lebegő videókat és tartsa a böngészést",
+        "description": "Mensaje title al usuario -Mira videos flotantes y sigue navegando-"
+    },
+    "tooltip": {
+        "message": "Nézze meg a videót Megkezdődik",
+        "description": "Mensaje tooltips al usuario -Ver el vídeo. Empieza en-"
+    },
+    "borrarBoton": {
+        "message": "töröl",
+        "description": "Value boton borrar -Borrar-"
+    },
+    "borrarBotonTitle": {
+        "message": "Törölje ezt a rekordot",
+        "description": "Title boton borrar -Eliminar este registro-"
+    },
+    "notifBorrado": {
+        "message": "kitörölt",
+        "description": "Notificación exitosa borrado -borrado-"
+    },
+    "notifBorradoError": {
+        "message": "hiba",
+        "description": "Notificación error borrado -Error-"
+    },
+    "h2IdTexto": {
+        "message": "Nézd meg ...",
+        "description": "Mensaje html al usuario -Sigue mirando...-"
+    },
+    "botonAboutValor": {
+        "message": "Az Elinv-ről",
+        "description": "Botón html -Sobre Elinv-"
+    },
+    "botonAboutTitle": {
+        "message": "További információ az Elinv-ről",
+        "description": "Botón html title -Más información sobre Elinv-"
+    },
+    "botonPreferidosTexto": {
+        "message": "Ajánlott YouTube",
+        "description": "Botón html -YouTube Recomendados-"
+    },
+    "botonPreferidosTitle": {
+        "message": "YouTube-kedvencek",
+        "description": "Botón html title -Preferidos de YouTube-"
+    },
+    "filtrarButTexto": {
+        "message": "Szűrési információk",
+        "description": "Botón filtrar información"
+    },
+    "filtrarButTitle": {
+        "message": "Szűrési információk",
+        "description": "Title filtrar información"
+    },
+    "filtrarButPlaceHolder": {
+        "message": "Szűrési információk",
+        "description": "Title filtrar información"
+    }  
+}
