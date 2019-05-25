@@ -1,5 +1,5 @@
 <a href="https://www.google.com.ar/?gws_rd=ssl#q=elinv">
-   <img src="./icons/youtube.png" 
+   <img src="./icons/youtube.png" width="200" height="200"
    title="Ayudante del Traductor de Google" alt="Ayudante del Traductor de Google">
 </a><br>
 
