@@ -1,6 +1,6 @@
 <a href="https://www.google.com.ar/?gws_rd=ssl#q=elinv">
    <img src="./icons/youtube.png" width="200" height="200"
-   title="Ayudante del Traductor de Google" alt="Ayudante del Traductor de Google">
+   title="Youtube Start At 10.0" alt="Youtube Start At 10.0">
 </a><br>
 
 <a href="https://github.com/Elinv/youtube_start_at">
