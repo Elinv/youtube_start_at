@@ -1,10 +1,25 @@
-ENGLISH
+<a href="https://www.google.com.ar/?gws_rd=ssl#q=elinv">
+   <img src="./icons/youtube.png" 
+   title="Ayudante del Traductor de Google" alt="Ayudante del Traductor de Google">
+</a><br>
+
+<a href="https://github.com/Elinv/youtube_start_at">
+   <img src="https://avatars1.githubusercontent.com/u/18106503?s=460&v=4" 
+   title="Youtube Start At 10.0" alt="Youtube Start At 10.0">
+</a>
+
+✅ ENGLISH
 
 ## ------------------------------------------------ -------
 ## ------------------------------------------------ -------
 # Youtube Start At 10.0
-* 	Errors, suggestions, ideas, send them to our mail:
-		<elinv.elinv@gmail.com>
+*		🛠️ Errors, suggestions, ideas, send them to our mail: <elinv.elinv@gmail.com>
+
+* 	[I met Elinv: his work and his heart]
+		(https://www.google.com.ar/?gws_rd=ssl#q=elinv)
+
+*		👍 Thank you!
+*		https://github.com/Elinv/youtube_start_at		
 
 * 	Sunday, May 25, 2019, 6:58 p.m.
 
@@ -83,7 +98,7 @@ ENGLISH
 ## ------------------------------------------------ -------
 
 
-ESPAÑOL
+✅ ESPAÑOL
 
 ## ------------------------------------------------ -------
 ## ------------------------------------------------ -------
