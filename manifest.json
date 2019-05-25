@@ -20,7 +20,8 @@
       ],
       "run_at": "document_start",
       "js": [
-        "content-script.js"
+        "./scr/funciones.js",
+        "./scr/content-script.js"
       ]
     }
   ],
@@ -33,12 +34,13 @@
   ],
   "background": {
     "scripts": [
-      "background.js"
+      "./scr/funciones.js",
+      "./scr/background.js"
     ]
   },
   "browser_action": {
     "default_icon": "icons/youtube.png",
     "default_title": "__MSG_extensionTitle__",
-    "default_popup": "popup/youtubeStartAtInfo.html"
+    "default_popup": "./popup/youtubeStartAtInfo.html"
   }
 }
