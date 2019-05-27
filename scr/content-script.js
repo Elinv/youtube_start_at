@@ -25,7 +25,7 @@ browser.runtime.onMessage.addListener(solicitud => {
                 }
             }
         }
-        run();       
+        run();
         `;
         let codeElement = document.createTextNode(code);
         script.appendChild(codeElement);
@@ -42,9 +42,8 @@ window.onbeforeunload = function (e) {
     e.returnValue = '';
 };
 
-
 // ----------------------------------------
 // Creamos Botones Elinv en YT 1°) 'Youtube inicia a las' y 2°) 'Flotar'
 // eslint-disable-next-line no-undef
-document.addEventListener("DOMContentLoaded", modFireSavePage.botonElinvInYT, false);
+document.addEventListener("DOMContentLoaded", modFireSavePage.botonElinvInYTFloat, false);
 

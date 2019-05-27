@@ -2,12 +2,12 @@
 /* eslint-disable no-undef */
 /* eslint-disable no-console */
 // Autoejecutar función al inicio
+const elvOBJETOYTStartUp = {};
 (function () {
     // variable
     const baseElv = browser.storage.local;
     // obtenemos valores desde storage local
     // ----------------------------------------
-    const elvOBJETO = {};
     baseElv.get(function (result) {
         for (let i in result) {
             let tempo = modFireSavePage.obtTempo(result[i].tiempo);
@@ -16,16 +16,14 @@
                 tiempo: tempo,
                 titulo: result[i].titulo
             };
-            elvOBJETO[i] = contenido;
+            elvOBJETOYTStartUp[i] = contenido;
         }
-        modFireSavePage.msgDocHtmlLink(elvOBJETO, '');
+        modFireSavePage.msgDocHtmlLink(elvOBJETOYTStartUp, '');
     });
 })()
 
 // ----------------------------------------
 window.onload = function () {
-    //bgPage.log("Hola mundo!");
-    //alert('hola mundo!');
     try {
         document.getElementById("aboutElinv").addEventListener("click", modFireSavePage.infoAboutElinv);
         document.getElementById("preferidos").addEventListener("click", modFireSavePage.preferidosYT);
@@ -38,7 +36,7 @@ window.onload = function () {
                 node.parentNode.removeChild(node);
             }
             // mostrar el objeto con la base de datos
-            modFireSavePage.msgDocHtmlLink(elvOBJETO, txtSearch);
+            modFireSavePage.msgDocHtmlLink(elvOBJETOYTStartUp, txtSearch);
             e.preventDefault();
         }, true);
     } catch (err) {

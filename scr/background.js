@@ -1,7 +1,7 @@
 /* eslint-disable no-console */
 "use strict";
 // --------------------------------------------------
-var filter = {
+let filtroWeb = {
     url:
         [
             { hostContains: "youtube.com" },
@@ -38,7 +38,7 @@ function logOnCompleted(details) {
     }
 }
 
-browser.webNavigation.onCompleted.addListener(logOnCompleted, filter);
+browser.webNavigation.onCompleted.addListener(logOnCompleted, filtroWeb);
 
 // Deshabilita togle click en browserAction
 browser.browserAction.onClicked.addListener((tab) => {
