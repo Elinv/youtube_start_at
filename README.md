@@ -12,7 +12,7 @@
 
 ## ------------------------------------------------ -------
 ## ------------------------------------------------ -------
-# Youtube Start At 10.0
+# Youtube Start At 10.5
 *		🛠️ Errors, suggestions, ideas, send them to our mail: <elinv.elinv@gmail.com>
 
 * 	[I met Elinv: his work and his heart]
@@ -22,6 +22,12 @@
 *		https://github.com/Elinv/youtube_start_at		
 
 * 	Sunday, May 25, 2019, 6:58 p.m.
+
+* → The buttons that allow you to update the current state of the video in progress, have been changed to a floating state on the right of the screen, where they appear with two icons, in which when putting the mouse pointer on, two buttons slide that allow to update the current moment of the video in the extension, to resume it in the future at that moment, and on the other hand the remaining button allows to open a popup where only the video will appear.
+* → Encoding has been improved.
+## ------------------------------------------------ -------
+## ------------------------------------------------ -------
+# Youtube Start At 10.0
 
     * → It works in this protocol only:
         → `https: //www.youtube.com/watch? V =`
@@ -102,12 +108,15 @@
 
 ## ------------------------------------------------ -------
 ## ------------------------------------------------ -------
+# Youtube Start At 10.5
+* → Los botones que permiten actualizar el estado actual del video en curso, se han cambiado a un estado flotante a la derecha de la pantalla, donde aparecen con dos iconos, en los cuales al ponerse el puntero del mouse encima, se deslizan dos botones que permiten actualizar el momento actual del video en la extensión, para retomarlo en el futuro en ese instante, y por otro lado el restante botón permite abrir un popup donde aparecerá solo el video.
+* → Se ha mejorado la codificación.
+## ------------------------------------------------ -------
+## ------------------------------------------------ -------
+
+## ------------------------------------------------ -------
+## ------------------------------------------------ -------
 # Youtube Start At 10.0
-*	Errores, sugerencias, ideas, envialas a nuestro mail:
-	<elinv.elinv@gmail.com>
-
-*   Domingo 25 de Mayo de 2019, 18:58 hs.
-
     *   → Funciona en este protocolo solamente: 
             → `https://www.youtube.com/watch?v=`
 
